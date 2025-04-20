@@ -115,4 +115,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Ford Rane Okumu - [fordraneokumu74@gmail.com](mailto:fordraneokumu74@gmail.com)
 
-Project Link: [https://github.com/yourusername/ab-testing-dashboard](https://github.com/yourusername/ab-testing-dashboard)
+Project Link: [https://github.com/okumuokumu/ab-testing-dashboard](https://github.com/okumuokumu/ab-testing-dashboard)
